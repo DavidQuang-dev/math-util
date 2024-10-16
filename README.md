@@ -8,4 +8,4 @@
 * A CI (Continous Integration) script
 *
 
-#### &#169; 2024 giáo.làng
+#### &#169; 2024 David.Quang
