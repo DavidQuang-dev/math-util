@@ -9,5 +9,5 @@
 *
 
 ## Screen-shots
-![JUnit with Maven](https://github.com/DavidQuang-dev/math-util/tree/master/screenshots)
+![JUnit with Maven](https://github.com/DavidQuang-dev/math-util/blob/master/screenshots/JUnit%20with%20Maven.png)
 #### &#169; 2024 David.Quang
