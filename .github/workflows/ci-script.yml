@@ -7,7 +7,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Math Utility Project (CI included)
+name: Math Utility Project (CI included) David Quang
 
 on:
   push:
