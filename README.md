@@ -1,4 +1,5 @@
 [![Math Utility Project (CI included) David Quang](https://github.com/DavidQuang-dev/math-util/actions/workflows/ci-script.yml/badge.svg)](https://github.com/DavidQuang-dev/math-util/actions/workflows/ci-script.yml)
+
 #Welcome to Math Utility (Maven Project)
 
 ## Welcome to Math Utility project
